@@ -1,0 +1,77 @@
+/*
+╔══════════════════════════════════════╗
+║                                      ║
+║          PROYECTO CÓDIGO             ║
+║                                      ║
+║   ¡Hola! Si estás interesado en este ║
+║   proyecto de código, no dudes en    ║
+║   ponerte en contacto conmigo.       ║
+║                                      ║
+║   Visita mi blog:                    ║
+║   aprendiendoaprogramar-codigo.blogspot.com ║
+║                                      ║
+║   Contacto:                          ║
+║   - Email: anthonydavila595@gmail.com║
+║   - Email: ccodigoprojecto@gmail.com ║
+║   - Nombre: Anthony Dávila           ║
+║                                      ║
+╚══════════════════════════════════════╝
+
+
+
+
+/* Estilo para el contenedor principal del formulario de inicio de sesión */
+.login-card {
+  margin-top: 50px; /* Margen superior de 50px */
+  border: 1px solid #ccc; /* Borde de 1px sólido con color #ccc */
+  border-radius: 5px; /* Bordes redondeados de 5px */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra con desplazamiento vertical de 2px, desplazamiento horizontal de 0, desenfoque de 5px y color rgba(0, 0, 0, 0.1) */
+}
+
+/* Estilo para el título de la tarjeta */
+.card-title {
+  font-weight: bold; /* Fuente en negrita */
+  color: #333; /* Color de texto #333 */
+}
+
+/* Estilo para las etiquetas de los campos del formulario */
+.form-group label {
+  font-weight: bold; /* Fuente en negrita */
+}
+
+/* Estilo para el botón primario */
+.btn-primary {
+  background-color: #007bff; /* Color de fondo #007bff */
+  border-color: #007bff; /* Color del borde #007bff */
+}
+
+/* Estilo para el botón primario al pasar el cursor por encima */
+.btn-primary:hover {
+  background-color: #0069d9; /* Color de fondo #0069d9 */
+  border-color: #0062cc; /* Color del borde #0062cc */
+}
+
+/* Estilo para los enlaces dentro de la clase text-center */
+.text-center a {
+  color: #007bff; /* Color del texto #007bff */
+}
+
+/* Estilo para los enlaces dentro de la clase text-center al pasar el cursor por encima */
+.text-center a:hover {
+  text-decoration: underline; /* Subrayado del enlace */
+}
+
+/* Estilo para los párrafos dentro de la clase text-center */
+.text-center p {
+  margin-bottom: 5px; /* Margen inferior de 5px */
+}
+
+/* Estilo para la clase mt-2 (margen superior de 10px) */
+.mt-2 {
+  margin-top: 10px; /* Margen superior de 10px */
+}
+
+/* Estilo para la clase mb-0 (margen inferior de 0) */
+.mb-0 {
+  margin-bottom: 0; /* Margen inferior de 0 */
+}
